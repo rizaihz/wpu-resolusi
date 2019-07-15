@@ -1,4 +1,5 @@
 WPU Resolusi
 -good job
 -membuat baik
+-struktur dasar
 
